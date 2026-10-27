@@ -1,0 +1,15 @@
+# Environment credentials
+**/.env
+**/.env.*
+!**/.env.example
+
+# Installed dependencies and generated output
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# Logs and local editor state
+*.log
+*.local
+.vscode/
+.idea/
